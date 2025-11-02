@@ -1,2 +1,2 @@
 # jcaircomp4semifl
-SemiFL
+The simulation code for CL, FL, and SemiFL.
